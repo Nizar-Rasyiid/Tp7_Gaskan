@@ -1,0 +1,15 @@
+D:\KPL C#\tp7\tp7\bin\Debug\net8.0\tp7.exe
+D:\KPL C#\tp7\tp7\bin\Debug\net8.0\tp7.deps.json
+D:\KPL C#\tp7\tp7\bin\Debug\net8.0\tp7.runtimeconfig.json
+D:\KPL C#\tp7\tp7\bin\Debug\net8.0\tp7.dll
+D:\KPL C#\tp7\tp7\bin\Debug\net8.0\tp7.pdb
+D:\KPL C#\tp7\tp7\obj\Debug\net8.0\tp7.GeneratedMSBuildEditorConfig.editorconfig
+D:\KPL C#\tp7\tp7\obj\Debug\net8.0\tp7.AssemblyInfoInputs.cache
+D:\KPL C#\tp7\tp7\obj\Debug\net8.0\tp7.AssemblyInfo.cs
+D:\KPL C#\tp7\tp7\obj\Debug\net8.0\tp7.csproj.CoreCompileInputs.cache
+D:\KPL C#\tp7\tp7\obj\Debug\net8.0\tp7.sourcelink.json
+D:\KPL C#\tp7\tp7\obj\Debug\net8.0\tp7.dll
+D:\KPL C#\tp7\tp7\obj\Debug\net8.0\refint\tp7.dll
+D:\KPL C#\tp7\tp7\obj\Debug\net8.0\tp7.pdb
+D:\KPL C#\tp7\tp7\obj\Debug\net8.0\tp7.genruntimeconfig.cache
+D:\KPL C#\tp7\tp7\obj\Debug\net8.0\ref\tp7.dll

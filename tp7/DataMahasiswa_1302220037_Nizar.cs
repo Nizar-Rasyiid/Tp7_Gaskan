@@ -1,32 +1,10 @@
 ﻿using System;
 using System.IO;
 using System.Text.Json;
-using System.Text.Json.Serialization;
 
 namespace tp7_DataMhs
 {
-    public class Mahasiswa
-    {
-        [JsonPropertyName("nama")]
-        public Nama Nama { get; set; }
-
-        [JsonPropertyName("nim")]
-        public string Nim { get; set; }
-
-        [JsonPropertyName("fakultas")]
-        public string Fakultas { get; set; }
-    }
-
-    public class Nama
-    {
-        [JsonPropertyName("depan")]
-        public string Depan { get; set; }
-
-        [JsonPropertyName("belakang")]
-        public string Belakang { get; set; }
-    }
-
-    public class DataMahasiswa_1302220037_Nizar
+    public class DataMahasiswa1302220037_Nizar
     {
         public void ReadJSON()
         {
@@ -35,6 +13,7 @@ namespace tp7_DataMhs
                 string fileName = "TP7_1_1302220037.json";
 
                 // Membaca teks JSON dari file
+
                 string jsonText = File.ReadAllText(fileName);
 
                 // Melakukan deserialisasi JSON menjadi objek Mahasiswa
@@ -54,15 +33,6 @@ namespace tp7_DataMhs
                 Console.WriteLine($"Terjadi kesalahan: {ex.Message}");
                 Console.WriteLine($"StackTrace: {ex.StackTrace}");
             }
-        }
-    }
-
-    class Program
-    {
-        static void Main(string[] args)
-        {
-            DataMahasiswa1302220037_Nizar dataMahasiswa = new DataMahasiswa1302220037_Nizar();
-            dataMahasiswa.ReadJSON();
         }
     }
 }
