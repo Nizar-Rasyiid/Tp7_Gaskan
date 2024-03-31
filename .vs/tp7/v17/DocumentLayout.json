@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\KPL C#\\tp7\\",
+  "WorkspaceRootPath": "C:\\Users\\MARJAUZA\\Documents\\KULIAH\\TUGAS\\Semester 4\\Praktikum KPL\\tpmodul7_1302220009\\Tp7_Gaskan_2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B834C668-B804-4585-B3CC-A9EAFBE68961}|tp7\\tp7.csproj|d:\\kpl c#\\tp7\\tp7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B834C668-B804-4585-B3CC-A9EAFBE68961}|tp7\\tp7.csproj|solutionrelative:tp7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\MARJAUZA\\Documents\\KULIAH\\TUGAS\\Semester 4\\Praktikum KPL\\tpmodul7_1302220009\\Tp7_Gaskan_2\\tp7\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:tp7\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,17 +14,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\KPL C#\\tp7\\tp7\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\MARJAUZA\\Documents\\KULIAH\\TUGAS\\Semester 4\\Praktikum KPL\\tpmodul7_1302220009\\Tp7_Gaskan_2\\tp7\\Program.cs",
               "RelativeDocumentMoniker": "tp7\\Program.cs",
-              "ToolTip": "D:\\KPL C#\\tp7\\tp7\\Program.cs",
+              "ToolTip": "C:\\Users\\MARJAUZA\\Documents\\KULIAH\\TUGAS\\Semester 4\\Praktikum KPL\\tpmodul7_1302220009\\Tp7_Gaskan_2\\tp7\\Program.cs",
               "RelativeToolTip": "tp7\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-31T15:35:14.958Z",
               "EditorCaption": ""
