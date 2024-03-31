@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\KPL C#\\tp7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B834C668-B804-4585-B3CC-A9EAFBE68961}|tp7\\tp7.csproj|d:\\kpl c#\\tp7\\tp7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B834C668-B804-4585-B3CC-A9EAFBE68961}|tp7\\tp7.csproj|solutionrelative:tp7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\KPL C#\\tp7\\tp7\\Program.cs",
+              "RelativeDocumentMoniker": "tp7\\Program.cs",
+              "ToolTip": "D:\\KPL C#\\tp7\\tp7\\Program.cs",
+              "RelativeToolTip": "tp7\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T15:35:14.958Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
