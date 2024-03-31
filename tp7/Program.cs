@@ -10,10 +10,10 @@ namespace tp7_DataMhs
     {
         static void Main(string[] args)
         {
-            DataMahasiswa1302220037_Nizar dataMahasiswa = new DataMahasiswa1302220009_Naswan();
+            DataMahasiswa1302220009_Naswan dataMahasiswa = new DataMahasiswa1302220009_Naswan();
             dataMahasiswa.ReadJSON();
 
-            KuliahMahasiswa_1302220037_Nizar kuliah = new KuliahMahasiswa_1302220009_Naswan();
+            KuliahMahasiswa_1302220009_Naswan kuliah = new KuliahMahasiswa_1302220009_Naswan();
             kuliah.ReadJson();
         }
     }
