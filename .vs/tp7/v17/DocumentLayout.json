@@ -7,12 +7,20 @@
       "RelativeMoniker": "D:0:0:{B834C668-B804-4585-B3CC-A9EAFBE68961}|tp7\\tp7.csproj|solutionrelative:tp7\\datamahasiswa_1302220037_nizar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B834C668-B804-4585-B3CC-A9EAFBE68961}|tp7\\tp7.csproj|D:\\KPL C#\\tp7\\tp7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B834C668-B804-4585-B3CC-A9EAFBE68961}|tp7\\tp7.csproj|solutionrelative:tp7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B834C668-B804-4585-B3CC-A9EAFBE68961}|tp7\\tp7.csproj|d:\\kpl c#\\tp7\\tp7\\kuliahmahasiswa_1302220037_nizar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B834C668-B804-4585-B3CC-A9EAFBE68961}|tp7\\tp7.csproj|solutionrelative:tp7\\kuliahmahasiswa_1302220037_nizar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CFCD5E0-8A8B-4199-97A2-01622FD91113}|Solution Items{2CFCD5E0-8A8B-4199-97A2-01622FD91113}|D:\\KPL C#\\tp7\\tp7_2_1302220037.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2CFCD5E0-8A8B-4199-97A2-01622FD91113}|Solution Items{2CFCD5E0-8A8B-4199-97A2-01622FD91113}|solutionrelative:tp7_2_1302220037.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2CFCD5E0-8A8B-4199-97A2-01622FD91113}|Solution Items{2CFCD5E0-8A8B-4199-97A2-01622FD91113}|D:\\KPL C#\\tp7\\tp7_1_1302220037.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{2CFCD5E0-8A8B-4199-97A2-01622FD91113}|Solution Items{2CFCD5E0-8A8B-4199-97A2-01622FD91113}|solutionrelative:tp7_1_1302220037.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B834C668-B804-4585-B3CC-A9EAFBE68961}|tp7\\tp7.csproj|D:\\KPL C#\\tp7\\tp7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B834C668-B804-4585-B3CC-A9EAFBE68961}|tp7\\tp7.csproj|solutionrelative:tp7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,8 +30,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "KuliahMahasiswa_1302220037_Nizar.cs",
+              "DocumentMoniker": "D:\\KPL C#\\tp7\\tp7\\KuliahMahasiswa_1302220037_Nizar.cs",
+              "RelativeDocumentMoniker": "tp7\\KuliahMahasiswa_1302220037_Nizar.cs",
+              "ToolTip": "D:\\KPL C#\\tp7\\tp7\\KuliahMahasiswa_1302220037_Nizar.cs",
+              "RelativeToolTip": "tp7\\KuliahMahasiswa_1302220037_Nizar.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwCgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T19:30:24.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "tp7_2_1302220037.json",
+              "DocumentMoniker": "D:\\KPL C#\\tp7\\tp7_2_1302220037.json",
+              "RelativeDocumentMoniker": "tp7_2_1302220037.json",
+              "ToolTip": "D:\\KPL C#\\tp7\\tp7_2_1302220037.json",
+              "RelativeToolTip": "tp7_2_1302220037.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-31T19:27:32.137Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -32,33 +66,33 @@
               "RelativeDocumentMoniker": "tp7\\DataMahasiswa_1302220037_Nizar.cs",
               "ToolTip": "D:\\KPL C#\\tp7\\tp7\\DataMahasiswa_1302220037_Nizar.cs",
               "RelativeToolTip": "tp7\\DataMahasiswa_1302220037_Nizar.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAuwBcAAAAnAAAA",
+              "ViewState": "AQIAABEAAAAAAAAAAAAwwCQAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-31T18:10:10.497Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "tp7_1_1302220037.json",
               "DocumentMoniker": "D:\\KPL C#\\tp7\\tp7_1_1302220037.json",
               "RelativeDocumentMoniker": "tp7_1_1302220037.json",
               "ToolTip": "D:\\KPL C#\\tp7\\tp7_1_1302220037.json",
               "RelativeToolTip": "tp7_1_1302220037.json",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAAAAcAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-03-31T18:04:25.238Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\KPL C#\\tp7\\tp7\\Program.cs",
               "RelativeDocumentMoniker": "tp7\\Program.cs",
               "ToolTip": "D:\\KPL C#\\tp7\\tp7\\Program.cs",
               "RelativeToolTip": "tp7\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADkAAAAFAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-31T15:35:14.958Z",
               "EditorCaption": ""

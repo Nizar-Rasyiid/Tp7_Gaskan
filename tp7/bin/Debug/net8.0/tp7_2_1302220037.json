@@ -1,0 +1,32 @@
+{
+  "courses": [
+    {
+      "code": "CRI2C4",
+      "name": "Konstruksi Perangkat Lunak"
+    },
+    {
+      "code": "PBO",
+      "name": "Pemograman Berorientasi Objek"
+    },
+    {
+      "code": "KWU",
+      "name": "Kewirusahaan"
+    },
+    {
+      "code": "Jarkom",
+      "name": "Dasar Jaringan Komputer"
+    },
+    {
+      "code": "Matdis",
+      "name": "Matematika Diskrit"
+    },
+    {
+      "code": "Pengpro",
+      "name": "Pengenalan Pemograman"
+    },
+    {
+      "code": "Strukdat",
+      "name": "Struktur Data"
+    }
+  ]
+}
